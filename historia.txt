@@ -2,16 +2,11 @@ Reinhard tiene 19 años y nacio en colombia.
 
 Juega lol y es un true gamer.
 
-<<<<<<< HEAD
-Main 1
-
-Main 2
-=======
 Experimento 1
 
 Experimento 2
 
-Master 1
->>>>>>> Exp 1
+Main 1  
+
 
 Mañana me enfocara en mi vida estudiantil.
